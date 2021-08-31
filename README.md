@@ -1,10 +1,10 @@
 # PrisonDB
 # Sample Database
 
-## Group Members: 
-Ufuk Özkul 
-Seden Dora Açık 
-Tolgay Atınç Uzun 
+## Group Members
+### Ufuk Özkul 
+### Seden Dora Açık 
+### Tolgay Atınç Uzun 
 
 
 
