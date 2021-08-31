@@ -76,7 +76,7 @@ When the user enters 1 as input, insert function is executed. This has only been
 for  one  table  called  convicts.  The  premade  columns  made  it  easier  to  enter  values  without 
 getting dynamic number of columns and their types. The user prompted to enter the attribute 
 values corresponding to convicts table. It starts by name and goes until weight. 
-## Update:
+## Update
 When 2 is entered as input, update function will execute. First of all, the user must 
 enter  the  table  name  in  order  to  do  the  operations.  Then,  the  columns  of  that  table  are 
 displayed to make it easier to choose what to change. After the table name, the conditions 
@@ -85,14 +85,14 @@ compatible predicate. It will bring a table that the update operation will take 
 the next input, the user must enter column names with one comma and one white space for 
 separation. This indicates which columns will be set from the table that has been brought by 
 predicate. Lastly, the user should enter the corresponding values for these columns. 
-## Delete:
+## Delete
 Third option is the delete function for database. It deletes multiple rows in which the 
 where clause is met. This operation accepts only one predicate denoted by where clause so 
 it  is  more  primitive  when  compared  with  update  function  but  it  is  secure  enough  that  user 
 cannot delete every row. It starts by asking one column name and continues to ask a value 
 for that column. Then, it deletes every row which is true for the predicate. The user must be 
 careful and should use ID as main delete column. Otherwise, multiple entries will be deleted.  
-## Print: 
+## Print
 This method works when user selects fourth option in menu. It asks for a table name to 
 be printed and same as before, gives the column names to user. The user can decide to print 
 all  of  the  table  but  also  can  select  specific  attributes,  too.  After  that,  a  predicate  should  be 
