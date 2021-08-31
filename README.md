@@ -87,5 +87,5 @@ entered. It prints all the columns according to the order which match with the p
 
 
 
-![resim](https://user-images.githubusercontent.com/61392825/131475209-36f79492-83e9-4b51-870c-2a310ed239aa.png)
+![resim](./DatabaseUml.png)
 
