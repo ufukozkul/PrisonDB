@@ -69,7 +69,7 @@ place of the crime, date and time, and name will be stored.
 
 
 
-# ''' ruby ''' Java Explanation 
+# ```diff -Java Explanation ```
 This java application handles insert, update, delete and print for the database.  
 ## Insert
 When the user enters 1 as input, insert function is executed. This has only been done 
