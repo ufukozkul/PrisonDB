@@ -1,5 +1,4 @@
-# PrisonDB
-# Sample Database
+# Sample Prison Database
 
 ## Group Members
 ```
