@@ -73,7 +73,7 @@ place of the crime, date and time, and name will be stored.
 
 # 
 ```diff
-Java Explanation
++ Java Explanation
 ```
 This java application handles insert, update, delete and print for the database.  
 ## Insert
